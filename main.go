@@ -1,4 +1,4 @@
-package goIP
+package main
 
 import (
 	"bufio"
